@@ -2,6 +2,7 @@
 javascript game
 
 #Thank you for downloading the Dice game i hope you like it 😊😊
+You can see the live version here : [play-dice-game](https://play-dice-games.netlify.app/)
 
 This is built and taught from a Udemy Course [The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
